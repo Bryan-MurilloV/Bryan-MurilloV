@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bryan+Murillo!;" />
 </h1>
 
-<h3 align="center">A Informatic Engineering student at the University of Guadalajara.</h3>
+<h3 align="center">An Informatic Engineering student at the University of Guadalajara.</h3>
 
 <br/>
 

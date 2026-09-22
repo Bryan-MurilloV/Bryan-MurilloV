@@ -16,11 +16,14 @@
  
  <hr/>
  
-<h2 align="center">⚒️ Languages ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java" /><br>
+
+  <h3>🛠️ Tools</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,github,idea,pycharm,webstorm" />
+
+  <h3>💻 Languages & Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css" />
+
 </div>
 
 <br/>
